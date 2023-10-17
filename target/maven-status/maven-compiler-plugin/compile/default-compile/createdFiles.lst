@@ -1,0 +1,4 @@
+game\mancala\MancalaGameApplication.class
+game\mancala\Service\MancalaService.class
+game\mancala\MancalaModel.class
+game\mancala\MancalaController.class
