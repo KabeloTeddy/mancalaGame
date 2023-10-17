@@ -1,0 +1,2 @@
+# mancalaGame
+Mancala game api
